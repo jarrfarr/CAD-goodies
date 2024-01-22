@@ -1,0 +1,17 @@
+number,vendor,model,URL,name,type,diameter,cornerradius,flutelength,shaftdiameter,angle,numflutes,stickout,coating,metric,notes,machine,material,plungerate,feedrate,rpm,depth,cutpower,finishallowance,3dstepover,3dfeedrate,3drpm
+0,LMT Onsrud,57-200,27395A41,1/8in - Baltic Birch,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,50,100,"10,000",0.1250,,0.01,0.05,100,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - Softwood,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,60,120,"10,000",0.1250,,0.01,0.05,120,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - Hardwood,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,30,60,"10,000",0.1250,,0.01,0.05,60,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - Soft Plywood,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,50,100,"10,000",0.1250,,0.01,0.05,100,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - Hard Plywood,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,50,100,"10,000",0.1250,,0.01,0.05,100,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - Laminated Plywood,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,30,60,"10,000",0.1250,,0.01,0.05,60,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - Laminated Chipboard,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,30,60,"10,000",0.1250,,0.01,0.05,60,"10,000"
+0,LMT Onsrud,57-200,27395A41,1/8in - MDF,end,0.125,0,0.500,0,0,2,1,,0,RPM = 1.0,Onefinity,General,50,100,"10,000",0.1250,,0.01,0.05,100,"10,000"
+1,LMT Onsrud,63-600,3317A22,1/8in - Aluminum,end,0.125,0,0.500,0,0,1,1,,0,RPM = ,Onefinity,General,15,30,"10,000",0.0300,,0.01,0.05,30,"10,000"
+2,LMT Onsrud,63-600,3317A25,1/4in - Aluminum,end,0.250,0,0.375,0,0,1,1,,0,RPM = ,Onefinity,General,30,60,"10,000",0.1250,,0.01,0.1,60,"10,000"
+3,Mr. Bradley,3011,,Yellow Boi - Vee Cutter,vee,0.5,,0.5,,60,3,0.75,,0,RPM = 2.5,Onefinity,General,60,120,"20,000",0.0500,,0.01,0.2,120,"20,000"
+4,Vsiki #1,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Vsiki #2,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Vsiki #3,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Vsiki #4,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Vsiki #5,,,,,,,,,,,,,,,,,,,,,,,,,
