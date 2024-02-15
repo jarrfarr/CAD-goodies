@@ -18,3 +18,5 @@ Solidworks Shortcuts
 |              | o     | offset                     |
 |              | m     | mirror                     |
 |              | a     | insert point               |
+|              | q     | polygon                    |
+|              | p     | toggle primary planes      |
