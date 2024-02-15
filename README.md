@@ -2,10 +2,10 @@ Solidworks Shortcuts
 | mod          | key   | command                    |
 |--------------|-------|----------------------------|
 |              | z     | toggle contstruction lines |
-| shift        | s     | centerpoint straight slot  |
+| ctrl +shift  | q     | centerpoint straight slot  |
 | shift        | r     | corner rectangle           |
 |              | l     | line                       |
-|              | s     | straight slot              |
+| shift        | q     | straight slot              |
 |              | f     | zoom to fit                |
 |              | d     | smart dimension            |
 | ctrl + shift | c     | copy appearance            |
@@ -20,3 +20,7 @@ Solidworks Shortcuts
 |              | a     | insert point               |
 |              | q     | polygon                    |
 |              | p     | toggle primary planes      |
+|              | w     | extrude                    |
+| shift        | w     | extrude-cut                |
+| ctrl + shift | q     | insert point               |
+| shift        | q     | sketch                     |
